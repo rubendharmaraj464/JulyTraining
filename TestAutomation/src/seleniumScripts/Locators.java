@@ -14,7 +14,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 
 public class Locators {
-	
+	public String name = null;
 	public void Testmethod()
 	{
 		System.out.println("This is locators method");
